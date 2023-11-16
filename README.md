@@ -2,7 +2,7 @@
 Um bot com uma caraiada de comandos. pra tu fazer oq quise
 
 # Como usar?
--- No arquivo main.py coloque o seu token
+- No arquivo main.py coloque o seu token
 ```py
 token="SEU-TOKEN"
 prefix = ">"
