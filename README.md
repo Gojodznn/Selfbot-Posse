@@ -14,3 +14,6 @@ Webhook_contents = "@everyone | @here LASCADO POR <seu-username>"
 ```
 - Hospede em algum lugar tipo a replit 👍
 - Depois verifique os comandos e depois é balão pra você 👍👍
+
+
+# NÃO FOI FEITO POR MIM PEGUEI POR AI E BALÃO 👍👍😘😘
