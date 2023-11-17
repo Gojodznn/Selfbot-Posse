@@ -20,13 +20,26 @@ class colors:
 os.system(f'cls & title [Criminal Coder V2] - Configuration')
 
 
-token="OTgxODUwMDQ2NTE1NTE5NTI4.Gd8Y-S.ei1qAQKlfs27BqtWj1b07LzndCLJ07IU"
+token="MTE3NTE1NzQ0NzU1NjYxNjIyMg.GmGHdY.slZTHYQA_4W74GT_DCaRE_BlSx_e06NLqNhe8Y"
 prefix = ">"
 CHANNEL_NAMES = "WIZZED BY Criminal"
 VCHANNELS_NAMES = "SEIZED BY Criminal"
 CATEGORY_NAMES = "Criminal Owns You"
 ROLE_NAMES = "Criminal On Top"
-Webhook_contents = "@everyone | @here NUTS! CRIMINAL IS HERE!"
+Webhook_contents = "`🎨`・  **Gojo | Studio**
+
+Entre no servidor abaixo e faça **seu orçamento**!
+⠀⠀⠀⠀⠀⠀⠀⠀⠀**Serviços**
+・Logo
+・Banners
+・Logo Bolha
+・Flyers
+・Thumbnail
+・Tabela
+・Barrinha
+
+・DISCORD・https://discord.gg/gojostudio
+https://imgur.com/kXnOGUV @everyone"
 
 
 os.system('cls')
